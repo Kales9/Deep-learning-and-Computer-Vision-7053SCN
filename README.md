@@ -16,3 +16,5 @@ Kaggle Chest X-Ray Pneumonia Dataset - 5,863 images
 
  Results
 Custom CNN achieved AUC-ROC = 0.9901
+
+## Milestone 1 - Dataset loaded and visualised
