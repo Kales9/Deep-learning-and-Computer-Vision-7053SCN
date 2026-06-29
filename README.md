@@ -19,3 +19,4 @@ Custom CNN achieved AUC-ROC = 0.9901
 
 ## Milestone 1 - Dataset loaded and visualised
 ## Milestone 2 - Custom CNN implemented and trained (AUC=0.9901)
+## Milestone 3 - ResNet50 Transfer Learning and GAN-Augmented model implemented
